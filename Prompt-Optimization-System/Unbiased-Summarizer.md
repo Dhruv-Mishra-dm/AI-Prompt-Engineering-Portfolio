@@ -47,7 +47,7 @@ FAIL-SAFE:
 If the text is purely emotional with no clear arguments, output: "The input primarily contains subjective or emotional expressions without clearly defined arguments.
 
 ```
-##TEST CASE : De-Biasing a Charged Opinion Piece
+## TEST CASE : De-Biasing a Charged Opinion Piece
 ---
 
 ### RAW INPUT:
