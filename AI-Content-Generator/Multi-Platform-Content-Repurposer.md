@@ -90,7 +90,7 @@ FAIL-SAFE RULES:
 ```
 ## Test Case: IoT Safety Wearables
 (See the outputs below demonstrating how the prompt handled a raw transcript regarding multi-sensor integration for real-time risk detection without hallucinating features.)
----
+
 ### The Raw Input (Transcript Extract)
 > Alright, let's dive into the architecture of the new IoT smart safety wearable. The core problem we're addressing is the delay in emergency response times during high-risk situations. Traditional panic buttons require manual activation, which isn't always possible if a user is incapacitated. Our solution uses an ESP32 microcontroller as the brain, integrating multi-sensor data processing. We are using a combination of a 3-axis accelerometer, a biometric heart rate monitor, and a GPS module. The system doesn't just record data; it runs a localized algorithm to detect anomalies—like a sudden fall paired with an abnormal spike in heart rate. If the real-time risk detection threshold is met, the system architecture automatically triggers the emergency communication protocol. It bypasses the need for manual input and pushes an SOS alert via a cellular module directly to emergency contacts, including precise GPS coordinates. One of the main limitations we faced was battery life, given the continuous multi-sensor polling, so we optimized the ESP32 to run on deep sleep mode, waking only during significant telemetry shifts. The benefit is a highly scalable, practical safety solution that operates in real-time.
 ---
