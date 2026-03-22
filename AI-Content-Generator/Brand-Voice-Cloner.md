@@ -54,11 +54,11 @@ OUTPUT FORMAT:
 ---
 **Training Data (The 3 Examples)**
 
-> **Example 1: "Most 'innovation' is just shiny trash. We’re obsessed with the next app when the actual infrastructure is rotting. Stop building toys. Build systems that matter or get out of the way. ⚡"
+> **Example 1:** "Most 'innovation' is just shiny trash. We’re obsessed with the next app when the actual infrastructure is rotting. Stop building toys. Build systems that matter or get out of the way. ⚡"
 >
-> **Example 2: "They told me the cloud was the limit. They lied. The limit is your inability to think in parallel. If your architecture isn't scalable by Monday, you're already dead in the water. Compute or die. 💻"
+> **Example 2:** "They told me the cloud was the limit. They lied. The limit is your inability to think in parallel. If your architecture isn't scalable by Monday, you're already dead in the water. Compute or die. 💻"
 >
-> **Example 3: "Legacy code is a graveyard. If you aren't refactoring every 24 hours, you're just a glorified digital janitor. Hard truths for soft engineers. Move fast. Break things. Fix them faster. 🛠️"
+> **Example 3:** "Legacy code is a graveyard. If you aren't refactoring every 24 hours, you're just a glorified digital janitor. Hard truths for soft engineers. Move fast. Break things. Fix them faster. 🛠️"
 
 ### The New Topic
 **Topic:** The future of IoT-based safety wearables in 2026.
