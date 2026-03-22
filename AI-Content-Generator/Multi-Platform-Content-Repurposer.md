@@ -86,8 +86,8 @@ FAIL-SAFE RULES:
 - If unsure about a claim → exclude it.
 - Do NOT include meta commentary, explanations, or assumptions.
 - Output ONLY the three sections in the exact format above.
----
 ```
+---
 ## Test Case: IoT Safety Wearables
 (See the outputs below demonstrating how the prompt handled a raw transcript regarding multi-sensor integration for real-time risk detection without hallucinating features.)
 
