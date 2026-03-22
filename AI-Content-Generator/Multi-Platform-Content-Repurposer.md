@@ -161,5 +161,6 @@ The most significant flaw in personal safety devices is their reliance on manual
 This post breaks down the system architecture of a new IoT smart safety wearable designed to eliminate the manual SOS bottleneck. By leveraging an ESP32 microcontroller integrated with multi-sensor data processing—specifically combining a 3-axis accelerometer, a biometric heart rate monitor, and a GPS module—this device automatically identifies abnormal physical conditions. You will learn how the system's localized algorithms analyze telemetry to detect high-risk events, such as a severe fall paired with a sudden heart rate spike, and immediately trigger an automated emergency communication protocol.
 
 We will also explore the practical engineering challenges of this technology. Specifically, we will discuss how to balance continuous multi-sensor polling with battery efficiency using deep sleep optimization, resulting in a highly scalable and practical safety solution that operates autonomously.
+
 ---
 
