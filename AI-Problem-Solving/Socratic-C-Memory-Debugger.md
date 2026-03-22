@@ -168,5 +168,6 @@ Explanation:
 
 - Stack: The pointer data exists only within the scope of process_data(). Once the function returns, the pointer is lost.
 - Problem: There is no corresponding free(data), so the allocated memory becomes unreachable, causing a memory leak.
+
 Guiding Question:
 Where should this allocated memory be freed so that its lifetime is properly managed before the function exits?
